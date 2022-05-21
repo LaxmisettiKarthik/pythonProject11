@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e88848-578a-4c8a-b742-2714442bc547" name="Changes" comment="git push heroku main:main" />
+    <list default="true" id="52e88848-578a-4c8a-b742-2714442bc547" name="Changes" comment="git push heroku main:main">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +46,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/pythonProject2",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "last_opened_file_path": "C:/Users/admin/PycharmProjects/pythonProject1/.idea",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "two.files.diff.last.used.folder": "C:/Users/admin/PycharmProjects/pythonProject1/venv/etc"
   }
 }]]></component>
