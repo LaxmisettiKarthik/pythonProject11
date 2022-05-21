@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e88848-578a-4c8a-b742-2714442bc547" name="Changes" comment="initial commit" />
+    <list default="true" id="52e88848-578a-4c8a-b742-2714442bc547" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -351,7 +353,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653155839710</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="initial commit">
+      <created>1653156118691</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653156118691</updated>
+    </task>
+    <task id="LOCAL-00012" summary="initial commit">
+      <created>1653156285063</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653156285063</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
